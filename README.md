@@ -1,6 +1,6 @@
 # COVID-19 Dashboard
 
-![COVID-19 Dashboard](![image](https://github.com/DianaLu-2022/Covid_19_dashboard/assets/138091530/04bea0f3-c8c9-4a72-90cf-efa3f22ea2c7)
+![COVID-19 Dashboard](<img width="736" alt="image" src="https://github.com/DianaLu-2022/Covid_19_dashboard/assets/138091530/cb729e9d-7b48-428e-8a4d-7d9ecd18acbe">
 )
 
 ## Overview
