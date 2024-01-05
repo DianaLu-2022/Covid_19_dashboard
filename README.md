@@ -1,7 +1,7 @@
 # COVID-19 Dashboard
 
-![COVID-19 Dashboard](<img width="736" alt="image" src="https://github.com/DianaLu-2022/Covid_19_dashboard/assets/138091530/cb729e9d-7b48-428e-8a4d-7d9ecd18acbe">
-)
+![COVID-19 Dashboard](
+<img width="483" alt="螢幕擷取畫面 2024-01-05 121823" src="https://github.com/DianaLu-2022/Covid_19_dashboard/assets/138091530/c7446a75-51a0-47a7-b623-61c63c1d5434">)
 
 ## Overview
 
